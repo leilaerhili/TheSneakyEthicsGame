@@ -4,23 +4,13 @@ A role-driven ethics exercise dressed up as a strategy game. Three teams — Ins
 
 Players are told they're playing to win for their team. They're not told it's an ethics exercise until the debrief. The point is to get the tradeoffs to surface from incentives rather than from people performing ethics for an audience.
 
-## Files
+- [`game.pdf`](./game.pdf) — gamemaster script
 
-- [`game.md`](./game.md) — full facilitator script, readable in the browser
-- [`game.pdf`](./game.pdf) — printable version, formatted for handouts
-- [`game.tex`](./game.tex) — LaTeX source for the PDF
 
 ## Running it
 
 Designed for ~12 players (3–4 per team plus civilians) and about 90 minutes. The script in `game.md` walks a Game Master through the world setup, three rounds with branching outcomes, the debrief, and a list of debrief questions.
 
-## Compiling the PDF
-
-```
-pdflatex game.tex
-```
-
-Requires `tcolorbox` with the `skins` and `breakable` libraries (standard in TeX Live and MiKTeX).
 
 ## Themes
 
