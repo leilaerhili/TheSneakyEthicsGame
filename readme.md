@@ -9,7 +9,7 @@ Players are told they're playing to win for their team. They're not told it's an
 
 ## Running it
 
-Designed for ~12 players (3–4 per team plus civilians) and about 90 minutes. The script in `game.md` walks a Game Master through the world setup, three rounds with branching outcomes, the debrief, and a list of debrief questions.
+Designed for ~12 players (2–4 per team plus civilians) and about 90 minutes. The script in `game.pdf` walks a Game Master through the world setup, three rounds with branching outcomes, the debrief, and a list of debrief questions.
 
 
 ## Themes
