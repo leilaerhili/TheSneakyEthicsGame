@@ -69,4 +69,4 @@ A few directions other facilitators have tried or could try:
 
 ## License
 
-MIT — use it, run it, modify it. If you run a session and learn something interesting, I'd love to hear about it.
+This game is free and available for anyone to use! If you run a session and learn something interesting, I'd love to hear about it.
